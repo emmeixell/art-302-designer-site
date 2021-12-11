@@ -1,0 +1,155 @@
+body{
+	background-color: white;
+}
+h1{
+	text-align: center;
+	font-family: 'Nunito Sans';font-size: 100px;
+	color: #2CBCD6;
+}
+h2 {
+	font-family: 'Nunito Sans';font-size: 50px;
+	color: #000000;
+}
+h3 {
+	font-family: 'Nunito Sans';font-size: 20px;
+	color: #1F4C2C;
+}
+h3:hover {
+	color: #E7D7C7;
+}
+h4 {
+	font-family: 'Nunito Sans';font-size: 20px;
+	color: #F2B456;
+}
+h4:hover {
+	color: #E7D7C7;
+}
+p {
+	font-family: 'Nunito Sans';font-size: 20px;
+	color: #000000;
+}
+li {
+	font-family: 'Nunito Sans';font-size: 20px;
+	color: #000000;
+}
+.information {
+	background-color: #D74D35;
+	margin-right: 10px;
+	height: 850px;
+	width: 1060px;
+	position: absolute;
+	top: 270px;
+	left: 700px;
+	border: solid;
+	border-width: 10px;
+	border-color: #D74D35;
+}
+.blue{
+  	width: 100%; 
+  	height: 40px;
+  	background-color: #2A62A6;
+  	position: absolute;
+  	top: 140px;
+}
+.nav a:hover {
+  color: #E7D7C7;
+}
+.nav a.active{
+	color: #E7D7C7;
+	font-family: 'Nunito Sans';font-size: 50px;
+	position: relative;
+	top: -35;
+}
+.home{
+	color: #E89C9D;
+	font-family: 'Nunito Sans';font-size: 50px;
+	position: relative;
+	top: -35;
+}
+.info{
+	color: #D74D35;
+	font-family: 'Nunito Sans';font-size: 50px;
+	position: relative;
+	top: -35;
+}
+.shop{
+	color: #F2B456;
+	font-family: 'Nunito Sans';font-size: 50px;
+	position: relative;
+	top: -35;
+}
+.portfolio{
+	color: #1F4C2C;
+	font-family: 'Nunito Sans';font-size: 50px;
+	position: relative;
+	top: -35;
+}
+img.screen {
+	position: relative;
+	top: -40;
+	width: 100%;
+	height: 100%;
+}
+img.portrait {
+	position: relative;
+	top: -10;
+}
+.shopnav {
+	font-family: 'Nunito Sans';font-size: 30px;
+	overflow: hidden;
+	position: relative;
+	left: 270px;
+}
+.shopnav a:hover {
+	background-color: #FFFFFF;
+	color: #E7D7C7;
+}
+.active {
+  color: #E7D7C7;
+}
+a.inactive {
+	color: #2CBCD6;
+}
+img.orange {
+	position: relative;
+	left: 270px;
+	top: 50px;
+}
+img.gray {
+	position: relative;
+	left: 470px;
+	top: 25px;
+}
+.bear {
+	position: absolute;
+	left: 425px;
+	top: 800px;
+}
+.forms {
+	position: absolute;
+	left: 1175px;
+	top: 800px;
+
+}
+.portfolionav {
+	font-family: 'Nunito Sans';font-size: 30px;
+	overflow: hidden;
+	position: relative;
+	left: 415px;
+}
+.portfolionav a:hover {
+	background-color: #FFFFFF;
+	color: #E7D7C7;
+}
+img.office {
+	margin-top: 50px;
+}
+img.texas {
+	margin-left: 15px;
+	margin-top: 50px;
+}
+.college {
+	position: absolute;
+	left: 670px;
+	top: 795px;
+}
